@@ -24,10 +24,23 @@
 
 --put note or links you found in the internet that may be useful for our project here
 
-##Git guide
+## Git guide
 
 **One time only**
-1. Open the folder that you use for your
+1. Open the folder that you use for your project
 2. Right click anywhere on the folder and click open Git Bash here
-3. 
+3. type this command: git clone https://github.com/ikmalk/El-Corona.git
+4. You may be asked to login to your github
+
+**Commit and push**
+1. Open the folder of your project and open git bash
+2. Type: git status
+3. See the file name you have not added
+4. Type: git add filename
+5. Type: git commit -m "Your commit message here"
+
+**Fetch and pulling**
+
+
+
 
