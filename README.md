@@ -3,7 +3,7 @@
 
 ## Human Activity Simulator
 
---insert note here
+*Insert note here*
 - [ ] Come up people's description of age, job, education, and other stuff
 - [ ] Set up a city or urban and places it has
 - [ ] Set an algorithm to generate people's description in multiple text files
@@ -12,7 +12,7 @@
 
 ## Contact Tracer
 
---insert note here
+*Insert note here*
 
 - [ ] Generate graph for people's connection
 - [ ] Set an equation for for people's probabilites of infection
@@ -22,12 +22,16 @@
 
 ## Useful note and links I found in the internet
 
---put note or links you found in the internet that may be useful for our project here
+*Put note or links you found in the internet that may be useful for our project here*
+
+[Writing on GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+[List of common Git Command](https://github.com/joshnh/Git-Commands)
+
 
 ## Git guide
 
 **Tips and PSA**
-- Always `git status` and `git help` if you lost
+- When in doubt, `git status` and `git help`
 - Please use comment as much as possible to explain why you write such a code
 - Please specify what you have changed in git commit message. Do not just say "change few stuff here and there" in your commit message
 
