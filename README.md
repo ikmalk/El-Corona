@@ -24,3 +24,10 @@
 
 --put note or links you found in the internet that may be useful for our project here
 
+##Git guide
+
+**One time only**
+1. Open the folder that you use for your
+2. Right click anywhere on the folder and click open Git Bash here
+3. 
+
