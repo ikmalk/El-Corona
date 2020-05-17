@@ -1,10 +1,10 @@
 # El-Corona
-## Assignment Project
+### Assignment Project
 
 > ***Please update as sees fit***
 
 
-## Human Activity Simulator
+### Human Activity Simulator
 
 *Insert note here*
 - [ ] Come up people's description of age, job, education, and other stuff
@@ -13,7 +13,7 @@
 - [ ] Set an algortihm to stimulates people's dailies activities
 
 
-## Contact Tracer
+### Contact Tracer
 
 *Insert note here*
 
@@ -23,7 +23,7 @@
 - [ ] Write algortihm for BFS
 
 
-## Useful note and links I found in the internet
+### Useful note and links I found in the internet
 
 *Put note or links you found in the internet that may be useful for our project here*
 
