@@ -1,7 +1,7 @@
 # El-Corona
 ## Assignment Project
 
-> ##***Please update as sees fit***
+> ***Please update as sees fit***
 
 
 ## Human Activity Simulator
