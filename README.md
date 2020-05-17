@@ -41,12 +41,14 @@
 3. type this command: `git clone https://github.com/ikmalk/El-Corona.git`
 4. You may be asked to login to your github
 
+
 **Commit and push**
 1. Open the folder of your project and open git bash
 2. Type: `git status`
 3. See the file name you have not added
 4. Type: `git add filename`
 5. Type: `git commit -m "Your commit message here"`
+6. Type: `git push` to send it online in the github repository.
 
 **Fetch and pulling**
 
