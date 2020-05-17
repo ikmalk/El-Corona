@@ -26,6 +26,11 @@
 
 ## Git guide
 
+**Tips and PSA**
+- Always `git status` and `git help` if you lost
+- Please use comment as much as possible to explain why you write such a code
+- Please specify what you have changed in git commit message. Do not just say "change few stuff here and there" in your commit message
+
 **One time only**
 1. Open the folder that you use for your project
 2. Right click anywhere on the folder and click open Git Bash here
