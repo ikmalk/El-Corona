@@ -25,7 +25,9 @@
 *Put note or links you found in the internet that may be useful for our project here*
 
 [Writing on GitHub](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 [List of common Git Command](https://github.com/joshnh/Git-Commands)
+
 [Learn Git and GitHub YT link](https://www.youtube.com/playlist?list=PLriKzYyLb28nCh3jJLROcYBvj7ZO0l-3G)
 
 
