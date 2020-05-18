@@ -32,6 +32,7 @@
 [List of common Git Command](https://github.com/joshnh/Git-Commands)
 
 [Learn Git and GitHub YT link](https://www.youtube.com/playlist?list=PLriKzYyLb28nCh3jJLROcYBvj7ZO0l-3G)
+[Epidemic, Endemic, and Eradication Simulations](https://www.youtube.com/watch?v=7OLpKqTriio)
 
 
 ## Git guide
