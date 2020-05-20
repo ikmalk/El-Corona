@@ -65,7 +65,7 @@
 5. Extra step. You can push to an existing branch by typing `git push origin branchname`
 
 **Fetch and pulling**
-*Will Upfate Later*
+*Will Update Later*
 
 
 
