@@ -68,7 +68,7 @@
 **Fetch and pulling**  
 *Will Update Later*  
 1. Open the folder of your project and open git bash
-2. Type: `git status 
+2. Type: `git status` 
 3. Type: `git pull`
 
 
