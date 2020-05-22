@@ -64,8 +64,11 @@
 4. Follow step 2 - 6 in comitting master branch. Your git bash will push to your branch unless specified.
 5. Extra step. You can push to an existing branch by typing `git push origin branchname`
 
-**Fetch and pulling**
-*Will Update Later*
+**Fetch and pulling**  
+*Will Update Later*  
+1. Open the folder of your project and open git bash
+2. Type: `git status 
+3. Type: `git pull`
 
 
 
