@@ -6,8 +6,9 @@
 
 ### Human Activity Simulator
 
-*Insert note here*
-[Activity](https://docs.google.com/document/d/1g9SKtAzOPN1zBES-FtvSh20fBwhic1uRsl0BZQmfD6M/edit)
+*Insert note here*  
+
+[Activity](https://docs.google.com/document/d/1g9SKtAzOPN1zBES-FtvSh20fBwhic1uRsl0BZQmfD6M/edit)  
 - [ ] Come up people's description of age, job, education, and other stuff
 - [ ] Set up a city or urban and places it has
 - [ ] Set an algorithm to generate people's description in multiple text files
