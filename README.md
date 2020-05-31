@@ -45,11 +45,17 @@
 - Please specify what you have changed in git commit message. Do not just say "change few stuff here and there" in your commit message
 
 **One time only**
+Cloning
 1. Open the folder that you use for your project
 2. Right click anywhere on the folder and click open Git Bash here
 3. Type this command: `git clone https://github.com/ikmalk/El-Corona.git`
 4. You may be asked to login to your github
 
+Set up email and name (This will appear when you do a commit)
+1. Open the folder that you use for your project
+2. Right click anywhere on the folder and click open Git Bash here
+3.Set your username by typing: `git config --global user.name "YourName"`
+4.Set your email by typing: `git config --global user.email "YourEmail@email.com"`
 
 **Commit and push**
 
