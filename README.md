@@ -54,8 +54,8 @@ Cloning
 Set up email and name (This will appear when you do a commit)
 1. Open the folder that you use for your project
 2. Right click anywhere on the folder and click open Git Bash here
-3.Set your username by typing: `git config --global user.name "YourName"`
-4.Set your email by typing: `git config --global user.email "YourEmail@email.com"`
+3. Set your username by typing: `git config --global user.name "YourName"`
+4. Set your email by typing: `git config --global user.email "YourEmail@email.com"`
 
 **Commit and push**
 
