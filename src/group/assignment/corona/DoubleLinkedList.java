@@ -2,7 +2,15 @@ package group.assignment.corona;
 
 import java.util.ListIterator;
 
-
+/*
+ * ******************************************************************
+ ***Created at 31/5/2020
+ *
+ *DoubleLinkedList class copied from my lab work. 
+ *Got ListIterator because doing while loop every time you want to search is a bad idea
+ * 
+ * ********************************************************************
+ */
 
 public class DoubleLinkedList<T> {
     protected DoubleListNode head;

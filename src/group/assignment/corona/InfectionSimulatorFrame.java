@@ -15,7 +15,7 @@ import javax.swing.SwingConstants;
 public class InfectionSimulatorFrame extends JFrame{
 
 	/*
-	 * ******************************************
+	 ********************************************
 	 ***Created at 31/5/2020
 	 *
 	 *This the GUI for the Infection Simulator that will pop up after user input in Movement GUI

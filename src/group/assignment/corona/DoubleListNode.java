@@ -1,5 +1,14 @@
 package group.assignment.corona;
 
+/*
+ * ******************************************************************
+ ***Created at 31/5/2020
+ *
+ *DoubleListNode for DoubleLinkedList class
+ *Copied from my lab work. 
+ *
+ */
+
 public class DoubleListNode<T> {
     private T data;
     private DoubleListNode previousLink;
