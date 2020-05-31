@@ -2,6 +2,8 @@ package group.assignment.corona;
 
 import java.util.ListIterator;
 
+
+
 public class DoubleLinkedList<T> {
     protected DoubleListNode head;
     
@@ -191,6 +193,12 @@ public class DoubleLinkedList<T> {
             System.out.print(currentNode.toString());
             currentNode = currentNode.getNextLink();
         }
+    }
+    
+    public ListIterator<T> getListIterator() {
+    	ListIterator<T> iterator = new DoubleLinkedListIterator();
+    	return iterator;
+    	
     }
     
     private class DoubleLinkedListIterator implements ListIterator<T>{
