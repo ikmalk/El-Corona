@@ -63,7 +63,7 @@ Set up email and name (This will appear when you do a commit)
 1. Open the folder of your project and open git bash
 2. Type: `git status`
 3. See the file name you have not added / have removed
-4. Type: `git add/rm filename` //add for `add` and `rm` for remove
+4. Type: `git add/[rm -r] filename` //add for `add` and `rm` for remove
 5. Type: `git commit -m "Your commit message here"`
 6. Type: `git push` to send it online in the github repository.
 
