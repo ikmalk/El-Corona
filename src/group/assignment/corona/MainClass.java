@@ -6,6 +6,10 @@ public class MainClass {
 
 	/*
 	 * ******************************************************************
+	 * 																	
+	 * 				DO NOT TOUCH ANYTHING IN THIS CLASS
+	 * 
+	 * ******************************************************************
 	 ***Created at 31/5/2020
 	 *
 	 * This is where the program will start.
