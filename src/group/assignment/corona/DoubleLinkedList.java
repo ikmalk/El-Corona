@@ -8,7 +8,15 @@ import java.util.ListIterator;
  *
  *DoubleLinkedList class copied from my lab work. 
  *Got ListIterator because doing while loop every time you want to search is a bad idea
- * 
+ *
+ *********************************************************************
+ ***Write all your changes here
+ *-
+ *********************************************************************
+ ***To do list
+ * - Add a sorting algorithm to the class (not done)
+ * - Add a method that remove all duplicate in class (not done)
+ * - Add a search algorithm (not done)
  * ********************************************************************
  */
 
